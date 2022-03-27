@@ -79,3 +79,7 @@ etcd和Raft的关系
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/276927d733844de9bd3174031ec03abd.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQ2FycGUtV2FuZw==,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 
+
+
+在src下面的github.com/CarpeWang/prepare 下包含了相关的学习记录
+
