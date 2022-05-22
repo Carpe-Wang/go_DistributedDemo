@@ -1,5 +1,8 @@
 # go_distributedDemo
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/f0b4748ee8f148339e722ca77aac413b.png)
+
+
 涉及的系统调用
 
     pipe():创建两个文件描述符，fd[0]可读，fd[1]可写。
