@@ -86,7 +86,5 @@ etcd和Raft的关系
 
 在src下面的github.com/CarpeWang/prepare 下包含了相关的学习记录
 
-框架图如下：
 
-<img width="1239" alt="image" src="https://user-images.githubusercontent.com/78642589/162400005-931df906-bbf2-4a67-bceb-18105eb1a983.png">
 
